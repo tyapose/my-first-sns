@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "C:\\Users\\81907\\anaconda3\\envs\\myspace\\python.exe",
+  "python.testing.nosetestArgs": [
+    "django_app"
+  ],
+  "python.testing.pytestEnabled": false,
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": true
+}
